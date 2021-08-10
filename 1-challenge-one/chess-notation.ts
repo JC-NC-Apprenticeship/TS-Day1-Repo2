@@ -1,3 +1,3 @@
-const chessNotation = () => {};
+const chessNotation = () => 'hello';
 
 export default chessNotation;
